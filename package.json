@@ -12,6 +12,10 @@
   "author": "Gerasimov V. Gerasim",
   "license": "MIT",
   "devDependencies": {
+    "@types/i2c-bus": "^5.1.2",
     "@types/node": "^16.18.103"
+  },
+  "dependencies": {
+    "i2c-bus": "^5.2.3"
   }
 }
