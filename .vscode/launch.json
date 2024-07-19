@@ -7,7 +7,7 @@
         {
             "type": "node",
             "request": "launch",
-            "args": ["../../dexs-gen-configuration/Serial-ttyAMA0/config.json"],
+            "args": [""],
             "name": "Launch Program",
             "preLaunchTask": "npm: build",
             "program": "${workspaceFolder}/src/index.ts",
